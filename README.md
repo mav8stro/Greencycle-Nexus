@@ -42,6 +42,22 @@ GreenCycle Nexus aims to modernize traditional waste management operations using
 
 ---
 
+# 🚀 Running Link & Release
+
+<div align="center">
+
+| Resource | Link / Access |
+|---|---|
+| 📦 **GitHub Release** | [🏷️ v2.0.0 Release Tag](https://github.com/mav8stro/Greencycle-Nexus/releases/tag/v2.0.0) |
+| 🌐 **Live Web Application** | [http://127.0.0.1:5000/app.html](http://127.0.0.1:5000/app.html) (or `http://127.0.0.1:5000/`) |
+| 🩺 **Backend Health Check** | [http://127.0.0.1:5000/health](http://127.0.0.1:5000/health) |
+| 📁 **Direct Local File** | Open `app.html` in browser |
+| ⚡ **Live Server Port** | `http://127.0.0.1:5500/app.html` |
+
+</div>
+
+---
+
 # 🌍 Real World Problem
 
 Traditional waste management systems often face:
